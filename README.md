@@ -23,15 +23,15 @@ Code Editor
 ### Setup
 
 ```bash
-git clone https://github.com/mandelatuks/Hello-World
-cd hello-world
+git clone https://github.com/Blessing600/Hello-Microverse
+cd Hello-Microverse
 ```
 
 👤 **Author**
 
-- GitHub: [@mandelatuks](https://github.com/mandelatuks)
-- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
-- LinkedIn: [Mandela Tumukunde](https://linkedin.com/in/Mandela Tumukunde)
+- GitHub: [@Blessing600](https://github.com/Blessing600)
+- Twitter: [@Juliet1Ogbodo](https://twitter.com/Juliet1Ogbodo)
+- LinkedIn: [juliet-ezinne-a810921b5](https://www.linkedin.com/in/juliet-ezinne-a810921b5/)
 
 ## 🤝 Contributing
 

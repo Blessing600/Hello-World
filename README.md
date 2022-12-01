@@ -11,6 +11,15 @@ Hello Microverse Project
 
 [Live Demo Link](https://github.com/Blessing600/Hello-Microverse)
 
+## Tech Stack
+
+HTML
+CSS
+
+## Key Features
+
+HTML project displaying Hello Microverse
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.

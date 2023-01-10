@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Hello Microverse Project
+Portfolio setup Microverse Project
 
 > Description the project.
-> A Hello Microverse
+> A Portfolio project
 
 ## Built With
 
@@ -21,8 +21,6 @@ CSS
 HTML project displaying Hello Microverse
 
 ## Getting Started
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
